@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=,CODECS="mp4a.40.2, avc1.4d4015"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1800000,CODECS="mp4a.40.2, avc1.4d4015"
 https://5050-firebase-tw2-1759247529975.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev/smart.php?id=Ria-0&token=jacktv
