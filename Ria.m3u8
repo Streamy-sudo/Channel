@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#EXT-X-STREAM-INF:BANDWIDTH=3300000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
 https://smart.dxjc.pp.ua/smart.php?id=Ria_backup&token=tmxk
