@@ -2,6 +2,4 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000
-http://tv.tslgpt.top:5050/smart.php?id=Ria-0&token=boxgpt
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
-http://8.iptv543.com:5051/smart.php?id=Ria-0&token=885252
+http://66.90.99.154:8278/Ria/playlist.m3u8?tid=m01674187119012462906&ct=18379&tsum=c7c1fdf7b1e0b30aad376edc1f50ed87
