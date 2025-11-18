@@ -3,3 +3,6 @@
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3154640
 https://smart.dxjc.pp.ua/smart.php?id=Ria-0&token=tmxk
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3054640
+http://8.iptv543.com:5051/smart.php?id=Ria-0&token=885252
+#EXT-X-ENDLIST
