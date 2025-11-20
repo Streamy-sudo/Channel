@@ -4,4 +4,6 @@
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000
 https://haoyunlai.serv00.net/Smartv.php?id=Ria
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
+https://haoyunlai.serv00.net/Smartv.php?id=Ria
 #EXT-X-ENDLIST
