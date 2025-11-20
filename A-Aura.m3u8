@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3154640
-https://smart.dxjc.pp.ua/smart.php?id=Aura&token=tmxk
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000
+http://iptv888.aibot408.qzz.io/s.php?id=Aura
