@@ -3,7 +3,7 @@
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000
-http://smart.cityq.xyz:8278/Prima/playlist.m3u8?tid=m01664966900517023223&ct=18379&tsum=d5621d62920655fb8f9189b40a6d77c4
+http://livesmart1.robyang.ggff.net:8278/Prima/playlist.m3u8?tid=m01664966900517023223&ct=18379&tsum=d5621d62920655fb8f9189b40a6d77c4
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
-http://smart.cityq.xyz:8278/Prima/playlist.m3u8?tid=m00930722390016652704&ct=18379&tsum=ee1fcb81ebc04e9c9ea69eeca6dad892
+http://livesmart1.robyang.ggff.net:8278/Prima/playlist.m3u8?tid=m00930722390016652704&ct=18379&tsum=ee1fcb81ebc04e9c9ea69eeca6dad892
 #EXT-X-ENDLIST
