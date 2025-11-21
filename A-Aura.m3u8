@@ -4,3 +4,4 @@
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000
 http://iptv888.aibot408.qzz.io/s.php?id=Aura
+#EXT-X-ENDLIST
