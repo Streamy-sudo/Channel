@@ -1,10 +1,10 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:4
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000,AVERAGE-BANDWIDTH=3200000,CODECS="avc1.64002A,mp4a.40.2"
-http://smart.cityq.xyz:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://smart.cityq.xyz:8278/Sensasi/playlist.m3u8?tid=mc42afe834703&ct=11760360&tsum=1b9eb7adc02f2543092fedc2dff3817d
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000,AVERAGE-BANDWIDTH=3100000,CODECS="avc1.64002A,mp4a.40.2"
-http://smart.cityq.xyz:8278/Sensasi/playlist.m3u8?tid=ME9E3851501438515014&ct=20380&tsum=3ed426bad9518834e9d6e7627c233bca
+http://smart.cityq.xyz:8278/Sensasi/playlist.m3u8?tid=mc42afe834703&ct=11760359&tsum=b7ada08b8af78cb51bcf335a5ee0473b
 #EXT-X-ENDLIST
