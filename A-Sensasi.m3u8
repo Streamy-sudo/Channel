@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:4
-#EXTVLCOPT:network-caching=10000000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=3400000,AVERAGE-BANDWIDTH=3200000,CODECS="avc1.64002A,mp4a.40.2"
-http://smart.aibot408.qzz.io:8278/Sensasi/playlist.m3u8?tid=mc42afe834703&ct=11760360&tsum=1b9eb7adc02f2543092fedc2dff3817d
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:PROGRAM-ID=10,BANDWIDTH=3400000
+http://tv.tslgpt.top:5050/smart.php?id=Sensasi&token=boxgpt
+#EXT-X-STREAM-INF:PROGRAM-ID=10,BANDWIDTH=3300000
+https://smart.946985.filegear-sg.me/smart.php?id=Sensasi
