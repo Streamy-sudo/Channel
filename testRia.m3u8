@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTVLCOPT:network-caching=10000000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000
-http://iptv888.aibot408.qzz.io/s.php?id=Ria
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
-http://tv123.vvvv.ee/smtmm.php?id=Ria
-#EXT-X-ENDLIST
