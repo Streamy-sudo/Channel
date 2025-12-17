@@ -1,9 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTVLCOPT:network-caching=10000000
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000
-http://iptv888.aibot408.qzz.io/s.php?id=Sensasi
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3300000
-http://tv.tslgpt.top:5050/smart.php?id=Sensasi_backup&token=boxgpt
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1280x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+https://smart.dxjc.pp.ua/smart.php?id=Ria&token=tmxk
