@@ -1,0 +1,21 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="Bahasa Melayu",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="ms",URI="https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist__ms_vtt.m3u8?id=2"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="English",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",URI="https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist__en_vtt.m3u8?id=2"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="普通话",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="chi",URI="https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist__xm_vtt.m3u8?id=2"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="தமிழ்",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="ta",URI="https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_ta_vtt.m3u8?id=2"
+#EXT-X-STREAM-INF:BANDWIDTH=5236003,RESOLUTION=1920x1080,SUBTITLES="subtitle"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+
+#EXT-X-STREAM-INF:BANDWIDTH=3366003,RESOLUTION=1280x720,SUBTITLES="subtitle"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b1096000_slENG.m3u8?id=2
+
+#EXT-X-STREAM-INF:BANDWIDTH=1496003,RESOLUTION=854x480,SUBTITLES="subtitle"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b796000_slENG.m3u8?id=2
+
+#EXT-X-STREAM-INF:BANDWIDTH=946003,RESOLUTION=640x360,SUBTITLES="subtitle"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b596000_slENG.m3u8?id=2
+
+#EXT-X-STREAM-INF:BANDWIDTH=726003,RESOLUTION=426x240,SUBTITLES="subtitle"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b346000_slENG.m3u8?id=2
