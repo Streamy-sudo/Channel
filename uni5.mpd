@@ -42,7 +42,7 @@
           <S t="84650727601030" d="40106666"/>
         </SegmentTimeline>
       </SegmentTemplate>
-      <Representation audioSamplingRate="48000" codecs="mp4a.40.5" id="1763979305893item-06item" bandwidth="64000"/>
+      <Representation audioSamplingRate="48000" codecs="mp4a.40.5" id="" bandwidth="64000"/>
     </AdaptationSet>
   </Period>
 </MPD>
