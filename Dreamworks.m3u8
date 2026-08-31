@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://cdn.qd.je/163189/dreamworks
-#https://rsmt.tv123.cc.cd/smt/2785?token=tv123
+#https://cdn.qd.je/163189/dreamworks
+https://rsmt.tv123.cc.cd/smt/2785/src/1/playlist.m3u8?token=tv123
