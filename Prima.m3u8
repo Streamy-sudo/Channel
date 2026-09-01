@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://rsmt.tv123.cc.cd/smt/1466?token=tv123
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
+http://rsmt.tv123.cc.cd/smt/1466/src/0/playlist.m3u8?token=tv123
