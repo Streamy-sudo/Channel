@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://rsmt.tv123.cc.cd/smt/2300/src/0/playlist.m3u8?token=tv123
+#http://202.150.161.212:5000/live/channel30/playlist.m3u8
