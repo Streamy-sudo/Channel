@@ -1,9 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:10
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.160000,
-https://mytv.tv911.ccwu.cc/mytv.php/mytv.php?url=https://cdn3.indevs.in/stream/live/aec/
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://cdn3.indevs.in/stream/live/aec/
 
 #http://protv.asia:8080/38831059986/226999/1217
