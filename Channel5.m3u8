@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTVLCOPT:network-caching=2000000
+#EXTVLCOPT:hls-live-edge=3
+#EXTVLCOPT:hls-segment-threads=4
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=1280x720,BANDWIDTH=20000002
+https://cdn.qd.je/163189/ch5/
