@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTVLCOPT:network-caching=2000000
+#EXTVLCOPT:hls-live-edge=3
+#EXTVLCOPT:hls-segment-threads=4
+#EXT-X-STREAM-INF:CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=1280x720,BANDWIDTH=20000002
+https://migu.yang-1989.xyz/sprt/r4wcpq.m3u8?token=1aa1c12cab2d202845568baffc17f495784d8fcc4a21426d
