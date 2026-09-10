@@ -4,5 +4,5 @@
 #EXTVLCOPT:hls-live-edge=3
 #EXTVLCOPT:hls-segment-threads=4
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://trams.koyeb.app/trams/2294/playlist.m3u8?token=hJI8BYvBq3Nsu3lUuUJhn8MExjakOHrdVqI6TcIPl7mMYl4tl4bJ96a0CtHeEc
-#http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#https://trams.koyeb.app/trams/2294/playlist.m3u8?token=hJI8BYvBq3Nsu3lUuUJhn8MExjakOHrdVqI6TcIPl7mMYl4tl4bJ96a0CtHeEc
