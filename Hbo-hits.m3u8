@@ -1,5 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:4
+#KODIPROP:inputstream.adaptive.min_buffer_seconds=5
+#KODIPROP:inputstream.adaptive.max_buffer_seconds=20
+#KODIPROP:inputstream.adaptive.live_delay_for_playback=10
+#KODIPROP:inputstream.adaptive.max_retries=10
+#KODIPROP:inputstream.adaptive.retry_delay=500
+#KODIPROP:inputstream.adaptive.chooser_type=fixed
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=false
+#KODIPROP:inputstream.adaptive.override_impaired=true
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
