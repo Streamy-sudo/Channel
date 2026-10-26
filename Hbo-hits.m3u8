@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:4
+#EXT-X-VERSION:7
 #EXTVLCOPT:http-ssl-bypass
 #EXTVLCOPT:input-read-ahead=2000
 #EXTVLCOPT:access=http
