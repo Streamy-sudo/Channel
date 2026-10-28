@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:4
+#EXT-X-VERSION:3
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
 #EXTVLCOPT:deinterlace-mode=yadif
