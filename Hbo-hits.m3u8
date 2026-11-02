@@ -1,10 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=yadif
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
