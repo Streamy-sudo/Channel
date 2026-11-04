@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:6
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:deinterlace=1
 #EXTVLCOPT:deinterlace-mode=yadif
 #EXTVLCOPT:avcodec-hw=any
