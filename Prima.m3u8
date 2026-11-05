@@ -13,3 +13,15 @@
 #EXT-X-MEDIA-SEQUENCE:20299
 #EXTINF:5.040,
 http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=4621&deviceMac=00:1A:79:4A:02:91
+#EXTINF:5.760,
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=4621&deviceMac=00:1A:79:4A:02:91
+#EXTINF:5.560,
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=4621&deviceMac=00:1A:79:4A:02:91
+#EXTINF:5.760,
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=4621&deviceMac=00:1A:79:4A:02:91
+#EXTINF:5.040,
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=4621&deviceMac=00:1A:79:4A:02:91
+#EXTINF:5.760,
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=4621&deviceMac=00:1A:79:4A:02:91
+#EXTINF:5.560,
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=4621&deviceMac=00:1A:79:4A:02:91
