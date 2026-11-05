@@ -11,4 +11,4 @@
 #EXTVLCOPT:input-slave=auto
 #EXTVLCOPT:clock-synchro=0
 #EXT-X-STREAM-INF:BANDWIDTH=5500000
-https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkUG1hamF0eXZhZl9wUmVNUTNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NTU1YzBhN2QmY249MWUwZDU4NGMmY3A9YzBiZGRjNjcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=2ee0fab2532f52e191ba2ac3a1a6a318
+http://tv.cloudcdn.me:80/live.m3u8?channelId=132152&uid=4621&deviceMac=00:1A:79:4A:02:91
