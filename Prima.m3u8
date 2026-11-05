@@ -11,4 +11,4 @@
 #EXTVLCOPT:input-slave=auto
 #EXTVLCOPT:clock-synchro=0
 #EXT-X-STREAM-INF:BANDWIDTH=5500000
-http://tv.cloudcdn.me:80/live.m3u8?channelId=132152&uid=4621&deviceMac=00:1A:79:4A:02:91
+http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=4621&deviceMac=00:1A:79:4A:02:91
