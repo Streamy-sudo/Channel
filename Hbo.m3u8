@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:4
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=yadif
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000
-http://46.38.157.60:19890/trams/1015/playlist.m3u8?token=passwd
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,AVERAGE-BANDWIDTH=6191434,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2"
+https://caonima.898757.xyz/l/GatWiVUwjl1sI7ptoUFe90o5yrVRcIvLXj9UaYDGQqOgsCCHZWEijctSYK6j1Tkl/video/index.m3u8
